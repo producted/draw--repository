@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T11:23:31.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="8H_hANC2_GWiLWlt_vxQ" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T02:19:53.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="zqXyV5nZlKax9yTwjSWr" version="14.4.9" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1847" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,21 +32,6 @@
         </mxCell>
         <mxCell id="PX7z_ylD8nnxDMQjPgUS-110" value="&lt;font style=&quot;font-size: 16px&quot;&gt;发票申请&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="70" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PX7z_ylD8nnxDMQjPgUS-117" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-180" y="370" width="200" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="PX7z_ylD8nnxDMQjPgUS-108" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;流程1&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=3;rounded=1;" vertex="1" parent="PX7z_ylD8nnxDMQjPgUS-117">
-          <mxGeometry width="200" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="PX7z_ylD8nnxDMQjPgUS-116" value="&lt;span style=&quot;font-size: 16px&quot;&gt;订单交易总额未超出单张面额&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PX7z_ylD8nnxDMQjPgUS-117">
-          <mxGeometry x="40.26315789473684" y="33.75" width="128.1578947368421" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="PX7z_ylD8nnxDMQjPgUS-118" value="" style="whiteSpace=wrap;html=1;rounded=1;align=center;verticalAlign=top;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PX7z_ylD8nnxDMQjPgUS-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="PX7z_ylD8nnxDMQjPgUS-108" target="PX7z_ylD8nnxDMQjPgUS-118">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PX7z_ylD8nnxDMQjPgUS-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="PX7z_ylD8nnxDMQjPgUS-121" target="PX7z_ylD8nnxDMQjPgUS-130">
           <mxGeometry relative="1" as="geometry" />
@@ -131,19 +116,25 @@
         <mxCell id="PX7z_ylD8nnxDMQjPgUS-163" value="&lt;span style=&quot;font-size: 16px&quot;&gt;按订单发票内容分组&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="740" y="860" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PX7z_ylD8nnxDMQjPgUS-249" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;" edge="1" parent="1" source="PX7z_ylD8nnxDMQjPgUS-164" target="PX7z_ylD8nnxDMQjPgUS-243">
+        <mxCell id="PX7z_ylD8nnxDMQjPgUS-257" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;fontSize=16;" edge="1" parent="1" source="PX7z_ylD8nnxDMQjPgUS-164" target="PX7z_ylD8nnxDMQjPgUS-234">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1045" y="1060" />
-              <mxPoint x="1045" y="1060" />
+              <mxPoint x="1100" y="1660" />
+              <mxPoint x="784" y="1660" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PX7z_ylD8nnxDMQjPgUS-164" value="&lt;span style=&quot;font-size: 16px&quot;&gt;将订单&lt;/span&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;逐条新增&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1030" y="860" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PX7z_ylD8nnxDMQjPgUS-248" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;" edge="1" parent="1" source="PX7z_ylD8nnxDMQjPgUS-167" target="PX7z_ylD8nnxDMQjPgUS-243">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PX7z_ylD8nnxDMQjPgUS-256" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;fontSize=16;" edge="1" parent="1" source="PX7z_ylD8nnxDMQjPgUS-167" target="PX7z_ylD8nnxDMQjPgUS-234">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="1035" />
+              <mxPoint x="930" y="1370" />
+              <mxPoint x="741" y="1370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PX7z_ylD8nnxDMQjPgUS-167" value="&lt;span style=&quot;font-size: 16px&quot;&gt;通过贪心算法完成行数+额度最优组合&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="740" y="1000" width="140" height="70" as="geometry" />
@@ -246,6 +237,9 @@
         <mxCell id="PX7z_ylD8nnxDMQjPgUS-191" value="&lt;span style=&quot;font-size: 16px&quot;&gt;组合处理后各个订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="157.5" y="960" width="465" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="PX7z_ylD8nnxDMQjPgUS-259" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;" edge="1" parent="1" source="PX7z_ylD8nnxDMQjPgUS-203" target="PX7z_ylD8nnxDMQjPgUS-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PX7z_ylD8nnxDMQjPgUS-203" value="&lt;span style=&quot;font-size: 16px&quot;&gt;未超出按当前结果完成&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="460" y="1320" width="170" height="90" as="geometry" />
         </mxCell>
@@ -299,8 +293,12 @@
         <mxCell id="PX7z_ylD8nnxDMQjPgUS-226" value="&lt;span style=&quot;font-size: 16px&quot;&gt;将处理过的订单及发票内容记录并移除&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="2010" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PX7z_ylD8nnxDMQjPgUS-242" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;fontSize=16;" edge="1" parent="1" source="PX7z_ylD8nnxDMQjPgUS-231" target="PX7z_ylD8nnxDMQjPgUS-234">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PX7z_ylD8nnxDMQjPgUS-255" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;" edge="1" parent="1" source="PX7z_ylD8nnxDMQjPgUS-231" target="PX7z_ylD8nnxDMQjPgUS-234">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="1625" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PX7z_ylD8nnxDMQjPgUS-231" value="&lt;span style=&quot;font-size: 16px&quot;&gt;按组为单位遍历该组下订单并散列拼接结果&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="1590" width="170" height="70" as="geometry" />
@@ -312,7 +310,7 @@
           <mxGeometry x="656" y="2010" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PX7z_ylD8nnxDMQjPgUS-240" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 153)&quot;&gt;每次遍历保证：&lt;br&gt;1.行数和面额不得超出上限，某一个达标立即进入下张发票处理；&lt;br&gt;2.一个订单占用多行时保证该订单不能和其他订单组合（即单行）&lt;br&gt;3.如果超出行数而没超出金额时，从其他发票组内进行组合；&lt;br&gt;4.遍历处理过程中边组合边移除防止代码bug导致多拆、少拆问题&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1420" width="270" height="180" as="geometry" />
+          <mxGeometry x="386" y="1405.5" width="270" height="180" as="geometry" />
         </mxCell>
         <mxCell id="PX7z_ylD8nnxDMQjPgUS-247" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;" edge="1" parent="1" source="PX7z_ylD8nnxDMQjPgUS-243" target="PX7z_ylD8nnxDMQjPgUS-246">
           <mxGeometry relative="1" as="geometry" />
@@ -321,7 +319,7 @@
           <mxGeometry x="960" y="2010" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PX7z_ylD8nnxDMQjPgUS-246" value="完成拆分" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontSize=16;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="2005" width="120" height="80" as="geometry" />
+          <mxGeometry x="1239" y="2005" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
