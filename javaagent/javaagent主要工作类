@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T05:37:45.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="rbSk19O6YKX0i85juXLw" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T05:39:51.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="ms06QaNY97-h5wysmSaw" version="14.5.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,13 +67,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QtM3OVw_TVehCeZGLJf6-2" value="javaagent如果需要通过字节码修改某些执行流程，只需要实现&lt;span style=&quot;font-style: italic ; font-weight: 700&quot;&gt;ClassFileTransformer，重写transform方法即可&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="870" y="252" width="130" height="180" as="geometry" />
+          <mxGeometry x="870" y="280" width="130" height="180" as="geometry" />
         </mxCell>
         <mxCell id="QtM3OVw_TVehCeZGLJf6-3" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontColor=#CC0000;entryX=0.513;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="l6s1rakV-kwRd2N9UYmH-4">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="689" y="330" as="sourcePoint" />
             <mxPoint x="540" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QtM3OVw_TVehCeZGLJf6-4" value="&lt;span style=&quot;font-weight: 700&quot;&gt;InstrumentationImpl&lt;/span&gt;实现类主要用于实现premain、agentmain的方法优先级、客户端扩展等等" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="280" width="130" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
